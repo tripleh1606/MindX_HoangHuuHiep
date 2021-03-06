@@ -1,0 +1,25 @@
+ul {
+  list-style-type: none;
+}
+.header {
+  color: white;
+  background-color: #58606b;
+  display: flex;
+  justify-content: space-around;
+}
+.hamburger {
+  display: flex;
+}
+.left {
+  padding-right: 30%;
+  background-color: #88919e;
+}
+.right {
+  padding-left: 3%;
+}
+.footer {
+  background-color: #58606b;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
